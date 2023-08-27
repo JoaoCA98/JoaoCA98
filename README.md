@@ -22,7 +22,7 @@ Exploring Data 📊 | Solving Puzzles 🧩 | Learning Something New Every Day �
 
 ## 🔍 My Projects
 
-### [Car Price Predictor]([https://github.com/yourusername/car-price-predictor](https://github.com/JoaoCA98/Used-Cars-Price-Prediction)
+### [Car Price Predictor](https://github.com/JoaoCA98/Used-Cars-Price-Prediction)
 Predicting used car prices with a hyper-tuned MLP algorithm. Achieved an impressive R-squared of 0.983 (Train) and 0.920 (Test). Let's not underestimate the power of the right features!
 
 ### [Hotel Customer Segmentation](https://github.com/yourusername/hotel-customer-segmentation)
