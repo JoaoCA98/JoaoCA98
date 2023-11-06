@@ -1,6 +1,6 @@
 # Hello, fellow explorer! 👋
 
-Welcome to my Data Science playground. I'm João Aires, a curious mind passionate about turning data into stories and insights. As a Data Scientist, I believe that every dataset has a story to tell, and I'm here to uncover those narratives.
+Welcome to my Data Science playground. I'm João, a curious mind passionate about turning data into stories and insights. As a Data Scientist, I believe that every dataset has a story to tell, and I'm here to uncover those narratives.
 
 ## 🚀 What I Love
 
