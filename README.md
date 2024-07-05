@@ -16,6 +16,7 @@ Exploring Data 📊 | Solving Puzzles 🧩 | Learning Something New Every Day �
 **Clustering:** K-Means, DBSCAN, Hierarchical Clustering  
 **Data Engineering:** PySpark  
 **Cloud:** Microsoft Certified: Azure AI Engineer Associate
+
 **Version Control:** Git  
 **Notebooks:** Jupyter, Google Colab  
 
