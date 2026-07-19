@@ -1,48 +1,25 @@
-# Hello, fellow explorer! 👋
+## João Cabral de Ascensão
 
-Welcome to my Data Science playground. I'm João, a curious mind passionate about turning data into stories and insights. As a Data Scientist, I believe that every dataset has a story to tell, and I'm here to uncover those narratives.
+**AI Engineer** — agentic AI platforms, LLM systems and applied AI governance.
 
-## 🚀 What I Love
+I build production AI systems for enterprise clients across Europe. Currently leading development of a commercial, configuration-driven agentic AI platform at Axians: multi-agent orchestration, real-time voice, and an ISO/IEC 42001 safety layer, from blank repository through to enterprise client proposals.
 
-Exploring Data 📊 | Solving Puzzles 🧩 | Learning Something New Every Day 📖
+### What I work with
 
-## 💡 Skills & Tools
+**Agentic AI & LLM** — LangGraph, LangChain, multi-agent orchestration (supervisor/specialist), ReAct, RAG, Azure OpenAI, Azure AI Search
 
-**Languages:** Python, SQL  
-**Data Manipulation:** Numpy, Pandas  
-**Data Visualization:** Matplotlib, Seaborn  
-**Machine Learning:** Decision Trees, Random Forest, XGBoost, SVM  
-**Deep Learning:** Neural Networks, CNN  
-**Clustering:** K-Means, DBSCAN, Hierarchical Clustering  
-**Data Engineering:** PySpark  
-**Cloud:** Microsoft Certified: Azure AI Engineer Associate
+**Engineering** — Python, FastAPI, TypeScript, React, Docker, Redis, REST API design, CI/CD, pytest
 
-**Version Control:** Git  
-**Notebooks:** Jupyter, Google Colab  
+**Cloud** — Azure Container Apps, Blob Storage, Key Vault, Azure SQL, Azure Communication Services, Entra ID
 
-## 🔍 My Projects
+**Observability** — Sentry, Prometheus, structured logging, cost telemetry
 
-### [Car Price Predictor](https://github.com/JoaoCA98/Used-Cars-Price-Prediction)
-Predicting used car prices with a hyper-tuned MLP algorithm. Achieved an impressive R-squared of 0.983 (Train) and 0.920 (Test). Let's not underestimate the power of the right features!
+**AI Governance** — ISO/IEC 42001, PII detection and redaction, kill switches, audit trails, drift detection
 
-### [Hotel Customer Segmentation](https://github.com/JoaoCA98/Customer_Segmentation)
-Clustered hotel customers to identify distinct groups for personalized marketing strategies. Implemented K-Means, DBSCAN, and Hierarchical Clustering to bring out the hidden patterns.
+### A note on this profile
 
-### [Recommendation System](https://github.com/JoaoCA98/Marketing-Strategy-Enhancement-With-Data-Science)
-RFM Model for segmentation and Similarity analysis to derive insightful recommendations.
+Most of my current work lives in private repositories. The public repos here are earlier data science projects from my MSc at Nova IMS and are kept for reference rather than as a reflection of current work.
 
-### [Marketing Campaign Response Prediction](https://github.com/JoaoCA98/Campaign_Response)
-Empowered the marketing team with a prediction model to identify potential customers for a campaign. Explored Logistic Regression, Decision Trees, and XGBoost to maximize campaign efficiency.
+### Contact
 
-### [House Price Prediction](https://github.com/JoaoCA98/House-Price-Prediction)
-Explored the famous Boston Housing dataset, building a model that predicts house prices. Achieved R-squared values of 0.80 (Train) and 0.72 (Test), showing the importance of understanding local market trends.
-
-## 🌱 On the Learning Path
-
-Currently diving into Graph Machine Learning and Recommendation Systems. Exploring how networks and connections impact our predictions and recommendations.
-
-## ✉️ Let's Connect
-
-I'm always excited to connect with fellow data enthusiasts, collaborate on projects, and share insights. Feel free to reach out via [LinkedIn](www.linkedin.com/in/joaocabralascensao).
-
-Keep exploring, stay curious, and keep data crunching! 📈
+[LinkedIn](https://www.linkedin.com/in/joaocabralascensao)
